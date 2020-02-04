@@ -2,6 +2,7 @@
 
 * Студент: [Михаил Скрипкин](https://up.htmlacademy.ru/htmlcss/27/user/1215049).
 * Наставник: `Неизвестно`.
+* Наставник: [Евгений Алипкин] (https://htmlacademy.ru/profile/ealipkin).
 
 ---
 
